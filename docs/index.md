@@ -10,18 +10,23 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 
 | Datum | Thema |
 | ----- | ----- |
-
-
-
-| 21.08.24 | Was ist Informatik? |
-| 28.08.24 | Systemvorbereitungen |
-| 04.09.24 | Problemlösung in der Informatik |
-| 11.09.24 | Variablen als Wegweiser zu Objekten |
-| 18.09.24 | Schleifen |
-| 25.09.24 | Bedingungen |
-| 23.10.24 | Anwendungsübungen |
-| 30.10.24 | Individuelle Prüfungsvorbereitung |
-| 06.11.24 | Test |
+| 23.08.24 | Strafrecht - Ziele des Strafrechts |
+| 30.08.24 | Strafrecht - Strafen und Massnahmen |
+| 06.09.24 | Strafrecht - Delikte gegen Leib und Leben |
+| 13.09.24 | Strafrecht - Delikte gegen die sexuelle Integrität |
+| 20.09.24 | Strafrecht - Strafprozessrecht (Verfahrensgrundsätze) |
+| 27.09.24 | Strafrecht - Strafprozessrecht (Parteien im Strafprozess) |
+| 08.11.24 | Test |
+| 15.11.24 | Steuern - Steuern als voraussetzungslos geschuldete öffentlichrechtliche Abgaben |
+| 22.11.24 | Steuern - Steuererklärung ausfüllen (Private Tax) |
+| 29.11.24 | Steuern - Steuererklärung ausfüllen (Private Tax) |
+| 06.12.24 | Steuern - Lenkungsabgaben am Beispiel der Tabaksteuer |
+| 13.12.24 | Steuern - Erbschaftssteuer |
+| 20.12.24 | Konsumkredite - gesetzliche Grundlagen (Weihnachtsfeier beachten) |
+| 10.01.25 | Konsumkredite - Konsumkredite im engeren Sinn |
+| 17.01.25 | Test |
+| 24.01.25 | Konsumkredite - Leasing |
+| 31.01.25 | Konsumkredite - Leasing |
 
 
 ## Beurteilung
