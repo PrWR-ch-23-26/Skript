@@ -30,11 +30,8 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 
 ## Beurteilung
 
-Die Note wird aus dem Durchschnitt zweier schriftlichen Prüfungen
-sowie der Benotung der mündlichen Beteiligung berechnet. Als mündliche
-Beteiligung gilt insbesondere auch nachfragen. Der
-Durchschnitt der Prüfungen zählt zu 90%, die mündliche Beteiligung zu
-10%.  
+Die Note wird aus dem Durchschnitt der Präsentation des Businessplans sowie
+Schlusspräsentation berechnet.
 
 Falls jemand eine persönliche Besprechung wünscht, [kann er sich hier für
 eine Sprechstunde anmelden](https://calendar.app.google/Rwb7qnemeNEhK682A).
