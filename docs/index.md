@@ -10,23 +10,22 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 
 | Datum | Thema |
 | ----- | ----- |
-| 23.08.24 | Strafrecht - Ziele des Strafrechts |
-| 30.08.24 | Strafrecht - Strafen und Massnahmen |
-| 06.09.24 | Strafrecht - Delikte gegen Leib und Leben |
-| 13.09.24 | Strafrecht - Delikte gegen die sexuelle Integrität |
-| 20.09.24 | Strafrecht - Strafprozessrecht (Verfahrensgrundsätze) |
-| 27.09.24 | Strafrecht - Strafprozessrecht (Parteien im Strafprozess) |
-| 08.11.24 | Test |
-| 15.11.24 | Steuern - Steuern als voraussetzungslos geschuldete öffentlichrechtliche Abgaben |
-| 22.11.24 | Steuern - Steuererklärung ausfüllen (Private Tax) |
-| 29.11.24 | Steuern - Steuererklärung ausfüllen (Private Tax) |
-| 06.12.24 | Steuern - Lenkungsabgaben am Beispiel der Tabaksteuer |
-| 13.12.24 | Steuern - Erbschaftssteuer |
-| 20.12.24 | Konsumkredite - gesetzliche Grundlagen (Weihnachtsfeier beachten) |
-| 10.01.25 | Konsumkredite - Konsumkredite im engeren Sinn |
-| 17.01.25 | Test |
-| 24.01.25 | Konsumkredite - Leasing |
-| 31.01.25 | Konsumkredite - Leasing |
+| 21.02.2025 | Business Canvas Model |
+| 28.02.2025 | Businessplan |
+| 21.03.2025 | Marktanalyse |
+| 28.03.2025 | Marktanalyse |
+| 04.04.2025 | Überarbeitung Businessplan |
+| 11.04.2025 | Präsentationen Businessplan |
+| 09.05.2025 | Marketing |
+| 16.05.2025 | Marketing |
+| 23.05.2025 | Marketing |
+| 06.06.2025 | Marketing |
+| 13.06.2025 | Projektmanagement |
+| 20.06.2025 | Projektmanagement |
+| 27.06.2025 | Schlusspräsentationen |
+| 04.07.2025 | Schlusspräsentationen |
+| 11.07.2025 | Ausblick |
+
 
 
 ## Beurteilung
