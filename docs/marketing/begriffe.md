@@ -16,6 +16,11 @@ bzw. zu prognostizieren. Je nach Lebensdauer eines Produktes kann die
 Entwicklung des Marktvolumens zunächst nur auf Erstkäufen und im späteren
 Verlauf auch auf Ersatzbeschaffungen beruhen.[^1] 
 
+Das Marktvolumen kann beispielsweise über eine 
+[Symbol map](https://www.datawrapper.de/maps/symbol-map) oder eine 
+[Choroplethen-Karte](https://app.datawrapper.de/edit/ZL1PS/basemap)
+visualisiert werden.
+
 Das *Marktpotenzial* umfasst die Gesamtheit aller möglichen Absatzmengen eines
 Marktes. Werden neue Märkte geschaffen, so besteht i. d. R. ein hohes, nicht
 ausgeschöpftes Marktpotenzial, das mit zunehmender Verbreitung der Produkte
@@ -24,6 +29,9 @@ weil sich zunehmend neue Nachfrager für das Produkt als potenzielle Kunden
 interessieren. Die Berechnung des Marktpotenzials verlangt neben der Ermittlung
 des Marktvolumens die Abschätzung, welche zusätzlichen Mengen bzw. Umsätze mit
 potenziellen Nachfragern und bestehenden Käufern realisiert werden können.[^2]
+
+Das Marktpotential kann mit den gleichen Darstellungen visualisiert werden wie
+das Marktvolumen.
 
 Der *Marktanteil* eines Unternehmens ergibt sich aus dem Verhältnis von
 Absatzvolumen zu Marktvolumen. 
@@ -52,6 +60,10 @@ Vergleich zur Konkurrenz eine wichtige Kenngröße darstellen. Teilweise wird im
 Nenner auch der Marktanteil der drei wichtigsten Wettbewerber abgetragen, um
 eine weniger stark schwankende Kennzahl ermitteln zu können.[^3]
 
+Anteile können mit 
+[figürlichen Grafiken ](https://datavizproject.com/data-type/fraction-of-pictograms/)
+dargestellt werden.
+
 Der *Marktausschöpfungsgrad* bzw. *Marktsättigungsgrad* kann durch den Vergleich
 des Marktvolumens mit dem Marktpotenzial ermittelt werden: 
 
@@ -73,6 +85,20 @@ definiert und gemessen sein kann. Marktwachstum kann vor allem dadurch
 entstehen, dass ein gegebenes Marktpotenzial von den Anbieterinnen zunehmend
 ausgeschöpft wird. Neben dem Marktvolumen gilt das Marktwachstum als besonders
 wichtiges Kriterium für die Beurteilung der Attraktivität eines Marktes.[^5]
+
+Für zeitliche Entwicklungen drängen sich Line charts auf. Solche können
+ebenfalls mit
+[Datawrapper](https://app.datawrapper.de/)
+erstellt werden.
+
+
+## Ablauf
+
+Die verschiedenen Begriffe werden in einem Lehrgespräch bzw. -vortrag
+vorgestellt. Anschliessend Erarbeiten die SuS eine Anleitung um eine passende
+Visualisierung erstellen zu können. Die Anleitungen (Umfang eine Seite) werden
+anschliessend der ganzen Klasse zur Verfügung gestellt.
+
 
 [^1]: Meffert, Heribert, Christoph Burmann, Manfred Kirchgeorg, und Maik
     Eisenbeiß. Marketing: Grundlagen marktorientierter Unternehmensführung
