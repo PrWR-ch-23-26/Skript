@@ -14,7 +14,7 @@ Analysen eingeführt. Am Schluss steht eine Konkurrenzanalyse.
 | KW |  Thema |
 | :---: | :--- |
 | 11 | Marktanalyse: [Begriffe und deren Darstellung](begriffe.md) |
-| 12 | Marktanalyse: qualitative Aspekte |
+| 12 | Marktanalyse: [qualitative Aspekte](qualitativ.md) |
 | 13 | Marktanalyse: quantitiative Aspekte |
 | 14 | Marktanalyse: Konkurzenanalyse |
 
