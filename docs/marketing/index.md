@@ -11,10 +11,15 @@ Analysen eingeführt. Am Schluss steht eine Konkurrenzanalyse.
 
 ## Zeitplan
 
+| KW |  Thema |
+| :---: | :--- |
+| 11 | Marktanalyse: Begriffliches |
+| 12 | Marktanalyse: qualitative Aspekte |
+| 13 | Marktanalyse: quantitiative Aspekte |
+| 14 | Marktanalyse: Konkurzenanalyse |
 
 
-10.03.25 – 06.04.25	8	Marktanalyse durchführen und auswerten; ggf.
-Businessplan überarbeiten
+
 
 05.05.25 – 01.06.25	6 (inkl. Ausfälle wegen Auffahrt und Brücke)
 Marketing-Mix erarbeiten 
