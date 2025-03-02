@@ -1,4 +1,19 @@
-# Datenquellen
+# Quantitative Marktanalyse
+
+In der quantitativen Marktanalyse geht es darum, die verschiedenen
+Marktkennzahlen mengenmässig zu beurteilen. Dazu stehen heute viele frei
+zugänglichen Quellen zur Verfügung. In dieser Übung geht es darum, die Eingangs
+eingeführten Marktgrössen Marktpotenzial, Marktvolumen, Marktanteil,
+Marktsättigung sowie Marktwachstum an ausgesuchten Beispielmärkten konkret
+abzuschätzen.
+
+Als Beispielmärkte dienen dabei die Märkte für die folgenden Produkte:
+
+* Papeterie-Artikel für Primarschüler
+* Orthopädiebedarf
+* Fitness Center
+
+## Datenquellen
 
 * [Bundesamt für Statistik](https://www.bfs.admin.ch/bfs/de/home.html)
 * [Statistisches Amt des Kantons Zürich](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt.html)
