@@ -5,6 +5,22 @@ Marktwachstum werden eingeführt. Neben den Definitionen soll darauf eingegangen
 werden, wie die quantitativen Aspekte der Begriffe in Dokumenten und
 Präsentationen anschaulich dargestellt werden können.
 
+Als Werkzeuge für die Visualisierung der Begriffe eignet sich insbesondere die
+frei verfügbare Plattform
+[datawrapper.de](https://app.datawrapper.de/).
+Alternativ können zu die Schlüsselbegriffe mit Hilfe von
+[Google Charts](https://developers.google.com/chart?hl=de)
+oder in einem
+[Jupyter Notebook mit
+plotly](https://plotly.com/python/ipython-notebook-tutorial/)
+visualisiert werden. Dabei handelt es sich allerdings um Alternativen für
+ambitionierte Darstellungen.
+
+## Begriffsdefinitionen
+
+Die Eingangs aufgezählten Begriffe werden in der Literatur folgendermassen
+definiert: 
+
 Das *Marktvolumen* ist die gegenwärtig von allen Anbietern abgesetzte Menge von
 Marktleistungen. In einigen Branchen, wie z. B. der Automobilindustrie, ist das
 Marktvolumen durch die amtlich verfügbaren Statistiken über die
