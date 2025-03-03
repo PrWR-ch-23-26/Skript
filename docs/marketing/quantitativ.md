@@ -7,11 +7,23 @@ eingeführten Marktgrössen Marktpotenzial, Marktvolumen, Marktanteil,
 Marktsättigung sowie Marktwachstum an ausgesuchten Beispielmärkten konkret
 abzuschätzen.
 
+## Anwendungsübung
+
 Als Beispielmärkte dienen dabei die Märkte für die folgenden Produkte:
 
 * Papeterie-Artikel für Primarschüler
 * Orthopädiebedarf
 * Fitness Center
+
+Für diese Märkte sind die Grössen
+
+* Marktpotenzial, 
+* Marktvolumen, 
+* Marktanteil, 
+* Marktsättigung sowie
+* Marktwachstum
+
+im Grossraum Winterthur zu erheben bzw. abzuschätzen.
 
 ## Datenquellen
 
