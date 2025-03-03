@@ -25,6 +25,9 @@ Für diese Märkte sind die Grössen
 
 im Grossraum Winterthur zu erheben bzw. abzuschätzen.
 
+Die jeweiligen Analysen sind in einem Handout im Umfang von einem Blatt A4
+abzugeben.
+
 ## Datenquellen
 
 * [Bundesamt für Statistik](https://www.bfs.admin.ch/bfs/de/home.html)
