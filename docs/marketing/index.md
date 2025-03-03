@@ -19,7 +19,5 @@ Analysen eingeführt. Am Schluss steht eine Konkurrenzanalyse.
 | 14 | Marktanalyse: [quantitative Aspekte](quantitativ.md) |
 
 
-
-
-05.05.25 – 01.06.25	6 (inkl. Ausfälle wegen Auffahrt und Brücke)
-Marketing-Mix erarbeiten 
+Die Planung für die Phase nach den Frühlingsferien (Marketing-Mix) ist noch
+ausstehend. Sie wird ebenfalls vier Wochen in Anspruch nehmen.
