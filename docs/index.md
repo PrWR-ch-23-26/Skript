@@ -13,7 +13,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 21.02.2025 | Business Canvas Model |
 | 28.02.2025 | Businessplan |
 | 21.03.2025 | Marktanalyse |
-| 28.03.2025 | Marktanalyse |
+| 28.03.2025 | [Qualitative Marktanalyse](marketing/qualitativ.md) |
 | 04.04.2025 | Überarbeitung Businessplan |
 | 11.04.2025 | Präsentationen Businessplan |
 | 09.05.2025 | Marketing |
