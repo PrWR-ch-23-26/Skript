@@ -1,5 +1,7 @@
 # Product
 
+## Einführung
+
 Das Produkt ist nach wie vor das zentrale Element eines jeden
 Unternehmens. Nur wenn mit dem Produkt ein Kundenbedürfnis gedeckt
 werden kann, kann es auch verkauft werden.
@@ -15,11 +17,50 @@ beispielsweise der
 Komfort oder der Status, den ein Auto vermittelt.
 
 Unternehmen in Westeuropa sind vielfach mit Märkten konfrontiert, welche
-in der Regel gesättigt sind. Produkte können entsprechend nicht mehr
+gesättigt sind. Produkte können entsprechend nicht mehr
 ausschliesslich wegen ihres Grundnutzens verkauft werden. Das
 eigentliche Verkaufsargument ist der Zusatznutzen.
 
+## Aufgabenstellung
 
+Aus den obigen einführenden Bemerkungen ergibt sich für die Schülerinnen und
+Schüler der folgende Auftrag:
 
-![Produktlebenszyklus](graphics/zyklus.svg)
+### Orientierung
 
+Die folgende Aufgabenstellung soll das Verständnis für die
+Unterscheidung zwischen Grund- und Zusatznutzen fördern.
+
+### Absicht
+
+Ich will, dass Sie in Gruppen anhand eines konkreten Produktes den
+Grund- und Zusatznuten erklären. Ausserdem sollen Sie ein Produkt aus
+der gleichen Kategorie suchen, welches praktisch ausschliesslich den
+Grundnuten stiftet.
+
+### Auftrag
+
+Halten Sie sich bereit, Ihre Erkenntnisse in der Klasse anhand einer
+Folie zu präsentieren.
+
+### Besondere Anordnungen
+
+* Die Präsentation ist via Teams abzugeben. Eine entsprechende
+  Gruppenaufgabe wird Ihnen zur Verfügung gestellt.
+* Die Präsentation soll mit YYMMDD_NUTZEN_GRUPPE.pptx benannt werden.
+  Wobei YYMMDD das Datum mit zweistelliger Jahreszahl zweistelliger
+  Monatsnummer und zweistelligem Tagesdatum darstellt. GRUPPE steht für
+  den Namen des Teamleaders.
+* Die Präsentation soll maximal 3 Minuten dauern.
+* Die Gruppen sollen maximal 4 Personen umfassen.
+* Folgende Produkte stehen zur Verfügung:
+  * Auto
+  * Smartphone
+  * Energydrink
+  * Schokolade
+  * Uhr
+  * Kopfhörer
+
+### Erreichbarkeit
+
+Die Lehrpersonen sind während der Unterrichtszeit direkt erreichbar.
