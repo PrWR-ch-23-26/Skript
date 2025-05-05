@@ -53,6 +53,9 @@ Folie zu präsentieren.
   den Namen des Teamleaders.
 * Die Präsentation soll maximal 3 Minuten dauern.
 * Die Gruppen sollen maximal 4 Personen umfassen.
+* Die Präsentation soll darüber Auskunft geben, was der Grundnutzen des
+  Gewählten Produktes ist. Ausserdem soll der Zusatznutzen beschrieben
+  und erläutert werden.
 * Folgende Produkte stehen zur Verfügung:
   * Auto
   * Smartphone
