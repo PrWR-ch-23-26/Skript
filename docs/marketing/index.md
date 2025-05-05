@@ -32,3 +32,4 @@ kombinierte Doppelstunde.
 | Umfang | Thema |
 | :---: | :--- |
 | 2 Lektionen | [Product](product.md) |
+| 2 Lektionen | [Promotion](promotion.md) |
