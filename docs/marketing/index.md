@@ -26,3 +26,9 @@ Promotion) verschiedentlich erweitert worden ist, basiert diese
 Einführung auf den traditionellen 4 P's. Für die Product und Price wird
 dabei eine Doppeltstunde eingesetzt und für Place und Promotion eine
 kombinierte Doppelstunde.
+
+## Lektionsskizzen
+
+| Umfang | Thema |
+| :---: | :--- |
+| 2 Lektionen | [Product](product.md) |
