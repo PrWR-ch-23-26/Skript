@@ -19,5 +19,18 @@ Analysen eingeführt. Am Schluss steht eine Konkurrenzanalyse.
 | 14 | Marktanalyse: [quantitative Aspekte](quantitativ.md) |
 
 
-Die Planung für die Phase nach den Frühlingsferien (Marketing-Mix) ist noch
-ausstehend. Sie wird ebenfalls vier Wochen in Anspruch nehmen.
+## Marketingmix
+
+Auch wenn der Marketingmix mit den 4 P's (Product, Price, Place,
+Promotion) verschiedentlich erweitert worden ist, basiert diese
+Einführung auf den traditionellen 4 P's. Allerdings werden nur die
+Aspekte Product, Price und Promotion behandelt. Der Aspekt Place wird
+aus Zeitgründen nicht behandelt.
+
+## Lektionsskizzen
+
+| Umfang | Thema |
+| :---: | :--- |
+| 2 Lektionen | [Product](product.md) |
+| 2 Lektionen | [Promotion](promotion.md) |
+| 2 Lektionen | [Price](price.md) |

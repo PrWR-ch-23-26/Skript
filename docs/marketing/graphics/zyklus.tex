@@ -1,0 +1,64 @@
+\documentclass[tikz]{standalone}
+
+% Font and language setup
+\usepackage[ngerman]{babel}
+\usepackage[scaled=0.92]{helvet}
+\usepackage[T1]{fontenc}
+\renewcommand\familydefault{\sfdefault}
+
+% TikZ and plotting packages
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+    % Define the axes
+    \draw[->] (0,0) -- (10,0) node[right] {Zeit};
+    \draw[->] (0,0) -- (0,6) node[above] {Umsatz/Gewinn};
+    
+    % Draw the revenue (Umsatz) curve
+    \draw[thick, blue] plot[smooth, tension=0.7] 
+        coordinates {
+            (0,0)    % Start
+            (2,1.5)  % Einführung
+            (4,4)    % Wachstum
+            (6,5)    % Reife
+            (8,3)    % Sättigung
+            (10,1)   % Rückgang
+        };
+    
+    % Draw the profit (Gewinn) curve
+    \draw[thick, red, dashed] plot[smooth, tension=0.7] 
+        coordinates {
+            (0,-0.5) % Start (negative due to initial investments) [[3]]
+            (2,-0.2) % Einführung (still negative but improving)
+            (4,2)    % Wachstum (becoming profitable) [[4]]
+            (6,3.5)  % Reife (peak profitability) [[5]]
+            (8,2)    % Sättigung (declining profits) [[6]]
+            (10,0.5) % Rückgang (minimal profits) [[7]]
+        };
+    
+    % Add phase labels with lines
+    \draw[dashed] (2,-0.5) -- (2,1.5);
+    \draw[dashed] (4,-0.5) -- (4,4);
+    \draw[dashed] (6,-0.5) -- (6,5);
+    \draw[dashed] (8,-0.5) -- (8,3);
+    
+    % Add text labels for phases
+    \node[below] at (1,-0.5) {Einführung};
+    \node[below] at (3,-0.5) {Wachstum};
+    \node[below] at (5,-0.5) {Reife};
+    \node[below] at (7,-0.5) {Sättigung};
+    \node[below] at (9,-0.5) {Rückgang};
+    
+    % Add legend
+    \node[draw, align=left] at (8,5) {
+        \textcolor{blue}{—} Umsatz\\
+        \textcolor{red}{- -} Gewinn
+    };
+    
+    % Add title
+    \node[above] at (5,5.5) {Produktlebenszyklus};
+\end{tikzpicture}
+\end{document}
