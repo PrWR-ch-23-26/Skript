@@ -23,9 +23,9 @@ Analysen eingeführt. Am Schluss steht eine Konkurrenzanalyse.
 
 Auch wenn der Marketingmix mit den 4 P's (Product, Price, Place,
 Promotion) verschiedentlich erweitert worden ist, basiert diese
-Einführung auf den traditionellen 4 P's. Für die Product und Promotion wird
-dabei eine Doppeltstunde eingesetzt und für Place und Price eine
-kombinierte Doppelstunde.
+Einführung auf den traditionellen 4 P's. Allerdings werden nur die
+Aspekte Product, Price und Promotion behandelt. Der Aspekt Place wird
+aus Zeitgründen nicht behandelt.
 
 ## Lektionsskizzen
 
@@ -33,3 +33,4 @@ kombinierte Doppelstunde.
 | :---: | :--- |
 | 2 Lektionen | [Product](product.md) |
 | 2 Lektionen | [Promotion](promotion.md) |
+| 2 Lektionen | [Price](price.md) |
